@@ -1,4 +1,4 @@
 # resumidor
-C&amp;C - Curso 2 Programación - Ejercicio: Crear una API
+Aplicación sencilla para crear resúmenes extractivos mediante Flask y Summa. La aplicación se puede probar aquí: https://resumidor-javi.onrender.com/
 
-This is a bare bones web app for summarization, using Flask and Summa. The app can be tested at https://resumiendo.herokuapp.com/
+Código y materiales basados en el trabajo de @menpente como parte del curso Programación para humanistas de Cálamo y Cran a cargo de Rubén Rodríguez de la Fuente.
